@@ -8,9 +8,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{FD6330
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefreshLifestyle", "RefreshLifestyle\RefreshLifestyle.csproj", "{0E981533-1EE3-4B03-A2B7-AE6312FCB9FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRenewLifestyle", "AutorenewLifestyle\AutoRenewLifestyle.csproj", "{0E981533-1EE3-4B03-A2B7-AE6312FCB9FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefreshLifestyle.Tests", "RefreshLifestyle.Tests\RefreshLifestyle.Tests.csproj", "{C266610A-7351-4B6C-88D1-A1B685E63BAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRenewLifestyle.Tests", "AutorenewLifestyle.Tests\AutoRenewLifestyle.Tests.csproj", "{C266610A-7351-4B6C-88D1-A1B685E63BAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
